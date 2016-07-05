@@ -1,0 +1,20 @@
+{
+  "name": "getting-started-with-hapi-js-part-1",
+  "version": "1.0.0",
+  "description": "Getting started with Hapi.js -- Part 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Badr Mehdaoui",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.10.4",
+    "babel-preset-es2015": "^6.9.0",
+    "hapi": "^13.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bootstrap.js"
+  }
+}
